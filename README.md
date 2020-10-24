@@ -1,7 +1,7 @@
 # Block Bird Mario
 Block Bird Mario is a 2D platformer developed in CIS120(Programming Languages and Techniques) at UPenn.
 
-![Staring Menu](/example_images/starting menu.PNG)
+![Starting Menu](/example_images/starting menu.PNG)
 
 The starting menu for the game looks like this. 
 
